@@ -30,3 +30,11 @@ body {
     color: aquamarine;
     font-weight: normal;
 }
+
+/* FOOTER */
+
+.footer {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
